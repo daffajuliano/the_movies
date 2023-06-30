@@ -1,16 +1,14 @@
-# the_movies
+# Repository Installation Guide
+Here is the step to running this project on your computer
+- Install Flutter 3.10.5
+- Install IDE (Android Studio / VSCode)
+- Clone this repository and open with your installed IDE
+- Open terminal at your project directory and type:
+  ```
+  flutter pub get
+  ```
+- Run this project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Installation Guide
+If you want to install result without cloning repository, you can download profile apk [here](https://drive.google.com/file/d/1ZHLrcqgIEjIBlRemGkEIvpBxl66XFqlj/view?usp=sharing)
+<br>After download, you can install it on your smartphone.
